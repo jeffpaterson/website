@@ -1,28 +1,4 @@
-/* ---- scroll reveal ---- 
-var images = [
-    'http://www.aliensix.com/particles/images/about-img.jpg',
-    'http://www.aliensix.com/particles/images/placeholder.png',
-    'http://www.aliensix.com/particles/images/placeholder2.png',
-    'http://www.aliensix.com/particles/images/placeholder3.png',
-    'http://www.aliensix.com/particles/images/team-member-1.jpg',
-    'http://www.aliensix.com/particles/images/team-member-2.jpg',
-    'http://www.aliensix.com/particles/images/team-member-3.jpg',
-    'http://www.aliensix.com/particles/images/team-member-4.jpg',
-    'http://www.aliensix.com/particles/images/timeline-1.jpg',
-    'http://www.aliensix.com/particles/images/timeline-2.jpg',
-    'http://www.aliensix.com/particles/images/timeline-3.jpg',
-    'http://www.aliensix.com/particles/images/timeline-4.jpg',
-    'http://www.aliensix.com/particles/images/work/1.jpg',
-    'http://www.aliensix.com/particles/images/work/2.jpg',
-    'http://www.aliensix.com/particles/images/work/3.jpg',
-    'http://www.aliensix.com/particles/images/work/4.jpg',
-    'http://www.aliensix.com/particles/images/work/5.jpg',
-    'http://www.aliensix.com/particles/images/work/6.jpg',
-    'http://www.aliensix.com/particles/images/work/7.jpg',
-    'http://www.aliensix.com/particles/images/work/8.jpg',
-    'http://www.aliensix.com/particles/images/work/9.jpg',
-];
-*/
+
 
 /* ---- mixitup.js our work sorting ---- */
 $('#thework').mixItUp({
